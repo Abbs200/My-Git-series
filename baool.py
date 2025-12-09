@@ -1,4 +1,4 @@
-# 9-1 & 9-4-  Restaurant
+#  python crash course 9-1 & 9-4-  Restaurant
 class Restaurant: 
     def __init__(self,res_name, cuis_type):
         self.x=res_name
